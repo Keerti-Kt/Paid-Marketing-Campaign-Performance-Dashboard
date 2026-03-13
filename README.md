@@ -6,6 +6,25 @@ This project analyzes the performance of paid digital marketing campaigns across
 ## Objective
 The goal of this project is to evaluate campaign performance and identify the most effective channels for marketing budget allocation.
 
+## Dataset
+The dataset contains paid marketing campaign data across multiple advertising channels including Facebook, Google, Instagram, and LinkedIn.
+
+Key fields inculde:
+- Ad spend
+- Revenue
+- Leads
+- Conversions
+- Date
+- Channel
+
+## Data Preparation
+During the data preparation stage, additional marketing KPIs were created to evaluate campaign performance.
+
+The following calculated columns were added:
+- ROAS (Return on Ad Spend) = Revenue/Ad Spend
+- CPL (Cost Per Lead) = Ad Spend/Leads
+- CPA (Cost Per Acquisition) = Ad Spend/Conversions
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -36,6 +55,12 @@ The goal of this project is to evaluate campaign performance and identify the mo
 - Facebook Ads showed the lowest Cost Per Lead (CPL).
 - LinkedIn Ads demonstrated the lowest CPA and highest ROAS, suggesting the most efficient campaign performance.
 - Based on efficiency and profitability metrics, LinkedIn Ads present the strongest case for increased advertising budget.
+
+## Dashboard Preview 
+"Dashboard_Screenshot.png"
+
+
+
 
 
 
