@@ -57,7 +57,7 @@ The following calculated columns were added:
 - Based on efficiency and profitability metrics, LinkedIn Ads present the strongest case for increased advertising budget.
 
 ## Dashboard Preview
-[![Dashboard](Dashboard_Screenshot.png)] (Dashboard_Screenshot.png)
+[![Dashboard](Marketing_dashboard_image.png)] (Marketing_dashboard_image.png)
 
 
 
