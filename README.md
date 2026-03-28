@@ -50,11 +50,11 @@ The following calculated columns were added:
 - Which channel should receive more advertising budget?
 
 ## Key Insights
-- Facebook Ads generated the highest number of leads, indicating strong performance in lead generation.
-- Instagram Ads showed the highest conversion rate and generated the highest revenue.
-- Facebook Ads showed the lowest Cost Per Lead (CPL).
-- LinkedIn Ads demonstrated the lowest CPA and highest ROAS, suggesting the most efficient campaign performance.
-- Based on efficiency and profitability metrics, LinkedIn Ads present the strongest case for increased advertising budget.
+- *Facebook Ads* generated the highest number of leads, indicating strong performance in lead generation.
+- *Instagram Ads* showed the highest conversion rate and generated the highest revenue.
+- *Facebook Ads* showed the lowest Cost Per Lead (CPL).
+- *LinkedIn Ads* demonstrated the lowest CPA and highest ROAS, suggesting the most efficient campaign performance.
+- Based on efficiency and profitability metrics, *LinkedIn Ads* present the strongest case for increased advertising budget.
 
 ## Dashboard Preview
 [![Dashboard](Marketing_dashboard_image1.png)] (Marketing_dashboard_image1.png)
